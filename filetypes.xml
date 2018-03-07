@@ -2,6 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="CountriesController" type="PLAIN_TEXT" />
+      <mapping pattern="bazaar" type="PLAIN_TEXT" />
+      <mapping pattern="configs/bazaar" type="PLAIN_TEXT" />
+      <mapping ext="user-words" type="PLAIN_TEXT" />
+      <mapping ext="user-patterns" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
