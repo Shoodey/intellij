@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="sop" value="System.out.println($END$);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
