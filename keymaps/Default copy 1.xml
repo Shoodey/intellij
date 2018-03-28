@@ -13,6 +13,10 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
@@ -21,6 +25,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoLine" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
