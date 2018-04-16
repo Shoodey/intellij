@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="CCleaner" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\shood\AppData\Roaming\Composer\vendor\bin\php-cs-fixer.bat" />
+      <option name="PARAMETERS" value="fix --verbose --config=.php_cs --path-mode=intersection &quot;$FileDir$/$FileName$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

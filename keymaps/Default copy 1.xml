@@ -8,6 +8,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.FindInGrid">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
@@ -20,6 +23,9 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -33,5 +39,11 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="Tool_External Tools_CCleaner">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
