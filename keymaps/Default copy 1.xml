@@ -23,9 +23,6 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -39,9 +36,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
-  <action id="Tool_External Tools_CCleaner">
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
